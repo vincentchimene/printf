@@ -2,7 +2,7 @@
 .SH NAME
 
 .B _printf
-\- format and print data in the standard output
+\- format and print data in the standard output.
 
 .SH SYNOPSIS
 .B \_printf
